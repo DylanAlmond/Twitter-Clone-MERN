@@ -1,1 +1,4 @@
 node_modules
+
+public/data/uploads*
+!public/data/uploads/defaultAvatar.jfif
