@@ -2,6 +2,7 @@
 
 [![Project Status: WIP](https://img.shields.io/badge/Project%20Status-WIP-yellow.svg)](https://yourprojectlink)
 
+![Frontend Preview](preview.PNG)
 
 This project is a work-in-progress Twitter clone built using the MERN stack with TypeScript for the frontend.
 
@@ -24,6 +25,7 @@ This project is a work-in-progress Twitter clone built using the MERN stack with
 - [x] File upload for profile pictures
 - [x] View posts by other users
 - [x] Create posts
+- [x] View user profiles
 - [ ] Like posts
 - [ ] Comment on posts
 - [ ] Delete posts
